@@ -1,0 +1,10 @@
+C:\Users\Hogwarts\source\repos\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\CalculadoraCsharp.exe.config
+C:\Users\Hogwarts\source\repos\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\CalculadoraCsharp.exe
+C:\Users\Hogwarts\source\repos\CalculadoraCsharp\CalculadoraCsharp\bin\Debug\CalculadoraCsharp.pdb
+C:\Users\Hogwarts\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\CalculadoraCsharp.csprojAssemblyReference.cache
+C:\Users\Hogwarts\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\CalculadoraCsharp.Properties.Resources.resources
+C:\Users\Hogwarts\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\CalculadoraCsharp.csproj.GenerateResource.cache
+C:\Users\Hogwarts\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\CalculadoraCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Hogwarts\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\CalculadoraCsharp.exe
+C:\Users\Hogwarts\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\CalculadoraCsharp.pdb
+C:\Users\Hogwarts\source\repos\CalculadoraCsharp\CalculadoraCsharp\obj\Debug\CalculadoraCsharp.mainfrm.resources
